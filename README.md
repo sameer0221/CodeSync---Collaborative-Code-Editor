@@ -33,7 +33,7 @@ A powerful real-time collaborative code editor built with React, Node.js, Socket
 - JWT (jsonwebtoken)
 - bcryptjs
 
-[![Watch the video](https://www.youtube.com/watch?v=MlxXBPxvcCk/maxresdefault.jpg)](https://www.youtube.com/watch?v=MlxXBPxvcCk)
+[![Watch the video]](https://www.youtube.com/watch?v=MlxXBPxvcCk)
 
 ## 📋 Prerequisites
 
