@@ -127,10 +127,6 @@ cd client
 npm start
 ```
 
-The application will be available at:
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:5000
-
 ## 📖 Usage
 
 1. **Sign Up**: Create a new account
@@ -230,10 +226,6 @@ npm run build
 - [ ] Theme customization
 - [ ] Code formatting
 - [ ] Undo/Redo functionality
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
